@@ -1,0 +1,6 @@
+{
+  "name": "Fin Plus Buddy",
+  "description": "Personal finance and budgeting companion for students and young adults in India",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
